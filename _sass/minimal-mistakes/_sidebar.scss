@@ -117,10 +117,11 @@
    Author profile and links
    ========================================================================== */
 
+/* 2022.01.22 change size */
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 100px;
+  width: 180px;
   height: 100px;
 
   @include breakpoint($large) {
