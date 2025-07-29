@@ -195,6 +195,7 @@
 
 .author__urls-wrapper {
   position: relative;
+  /* 2025.07.29 margin change*/
   margin: 0 0 0 0;
   border-left: 0px;
   display: table-cell;
@@ -206,7 +207,8 @@
   cursor: pointer;
 
   &.sticky {
-    border-left: 2px solid rgba(199, 198, 198, 0.7);
+    /* 2025.07.29 border-left change*/
+    border-left: 0 solid rgba(199, 198, 198, 0.7);
   }
 
   li:last-child {
@@ -261,7 +263,8 @@
   position: absolute;
   right: 0;
   margin-top: 15px;
-  padding: 10px;
+  /* 2025.07.29 padding change*/
+  padding: 0;
   list-style-type: none;
   border: 1px solid $border-color;
   border-radius: $border-radius;
