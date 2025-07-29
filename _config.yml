@@ -102,12 +102,12 @@ author:
   avatar           : "/assets/images/author_main.jpg" # 블로그 프로필 사진
   bio              : "CAE Engineer"
   location         : "Seoul, Korea"
-  email            : # "infinity8.tp@xgmail.com"
+  email            : # "infinity8.tp@gmail.com"
 
   links: # 사이트 링크
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "infinity8.tp@xgmail.com"
+      url: "infinity8.tp@gmail.com"
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
 #       # url: "https://your-website.com"
