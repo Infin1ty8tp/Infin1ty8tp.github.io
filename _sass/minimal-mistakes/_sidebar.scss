@@ -178,13 +178,13 @@
 .sidebar .author__name {
   font-family: $menufont;
   /* 2022.01.23 font size & weight change*/
-  font-size: 1.5em;
+  font-size: $type-size-6;
   font-weight: 600;
 }
 
 .author__bio {
   margin: 0;
-  font-size: 1.4em;
+  font-size: $type-size-5;
   font-family: $menufont;
   @include breakpoint($large) {
     margin-top: 5px;
