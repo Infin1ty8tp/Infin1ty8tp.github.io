@@ -22,8 +22,8 @@ locale: "en-US" #"en-US"
 title: "INFINITY NOTE" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
-name: "your name here" # 블로그 닉네임 설정
-description: "this is my blog!" # 블로그 설명
+name: "Yuhan Noh" # 블로그 닉네임 설정
+description: "INFINITY NOTE" # 블로그 설명
 url: "https://infin1ty8tp.github.io" # 블로그 URL
 # baseurl: # the subpath of your site, e.g. "/blog"
 repository: "Infin1ty8tp/Infin1ty8tp.github.io" # GitHub Repo 이름
@@ -98,11 +98,11 @@ analytics:
 
 # Site Author
 author:
-  name: "your name here" # 블로그 닉네임
+  name: "Yuhan Noh" # 블로그 닉네임
   avatar: "/assets/images/author_main.jpg" # 블로그 프로필 사진
-  #   bio              : "hi all!"
-  # location         : "Seoul, Korea"
-  # email            : "youremailhere@xxxxxx.com"
+  bio              : "CAE Engineer"
+  location         : "Seoul, Korea"
+  email            : "infinity8.tp@xgmail.com"
 
   links: # 사이트 링크
 #     - label: "Email"
