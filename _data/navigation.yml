@@ -18,13 +18,13 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Title1"
+  - title: "배터리"
     children:
-      - title: "Categories1"
-        url: /categories/categories1/
       - title: "Categories2"
         url: /categories/categories2/
       - title: "Categories3"
         url: /categories/categories3/
       - title: "Categories4"
         url: /categories/categories4/
+      - title: "PJT"
+        url: /categories/PJT/
