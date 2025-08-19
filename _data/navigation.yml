@@ -20,11 +20,9 @@ main:
 categories:
   - title: "배터리"
     children:
-      - title: "Categories2"
-        url: /categories/categories2/
-      - title: "Categories3"
-        url: /categories/categories3/
-      - title: "Categories4"
-        url: /categories/categories4/
-      - title: "PJT"
-        url: /categories/PJT/
+      - title: "기술"
+        url: /categories/기술/
+      - title: "논문"
+        url: /categories/논문/
+      - title: "프로젝트"
+        url: /categories/프로젝트/

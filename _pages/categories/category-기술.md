@@ -1,9 +1,9 @@
 ---
-title: "PJT"
+title: "기술"
 layout: category
-permalink: /categories/PJT/
+permalink: /categories/기술/
 author_profile: true
-taxonomy: PJT
+taxonomy: 기술
 sidebar:
   nav: "categories"
 ---
