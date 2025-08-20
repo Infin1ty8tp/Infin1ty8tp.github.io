@@ -26,3 +26,11 @@ categories:
         url: /categories/배터리/논문/
       - title: "프로젝트"
         url: /categories/배터리/프로젝트/
+  - title: "시뮬레이션"
+    children:
+      - title: "기술"
+        url: /categories/시뮬레이션/기술/
+      - title: "논문"
+        url: /categories/시뮬레이션/논문/
+      - title: "프로젝트"
+        url: /categories/시뮬레이션/프로젝트/
