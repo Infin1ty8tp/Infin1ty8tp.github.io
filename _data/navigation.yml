@@ -18,19 +18,7 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "배터리"
-    children:
-      - title: "기술"
-        url: /categories/배터리/기술/
-      - title: "논문"
-        url: /categories/배터리/논문/
-      - title: "프로젝트"
-        url: /categories/배터리/프로젝트/
-  - title: "시뮬레이션"
-    children:
-      - title: "기술"
-        url: /categories/시뮬레이션/기술/
-      - title: "논문"
-        url: /categories/시뮬레이션/논문/
-      - title: "프로젝트"
-        url: /categories/시뮬레이션/프로젝트/
+  - title: "Battery"
+    url: /categories/Battery/
+  - title: "CAE"
+    url: /categories/CAE/

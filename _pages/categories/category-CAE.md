@@ -1,9 +1,9 @@
 ---
-title: "기술"
+title: "CAE"
 layout: category
-permalink: /categories/배터리/기술/
+permalink: /categories/CAE/
 author_profile: true
-taxonomy: 기술
+taxonomy: CAE
 sidebar:
   nav: "categories"
 ---
