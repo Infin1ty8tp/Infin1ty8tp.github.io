@@ -7,9 +7,9 @@ comments: false
 
 ### 🔎 Research Interests
 - Li-ion Battery
-- Structural Simulation
-- Numerical Modeling
+- Computer-Aided Engineering
 - Optimization
+- Deep learning
 
 ### 💻 Technical Skills
 - **Language**
@@ -23,8 +23,8 @@ comments: false
 
 ### 💼 Professional Experience
 
-**LG Energy Solution** | Gwacheon, Korea
-*Professional (책임연구원)* | Jul. 2017 ~ Present
+**LG Energy Solution**, Korea
+*Professional (책임연구원)* (Jul. 2017 ~ Present)
 
 - **Current Role**: CAE Engineer
 - **Current Research Area**: 1D/3D Swelling Simulation, Li-plating
@@ -37,10 +37,12 @@ comments: false
 ### 🎓 Education
 
 **Hanyang University**, Korea
+
 *M.S. in Automotive Engineering* (Sep. 2015 ~ Aug. 2017)
 - **Advisor**: Prof. Seungjae Min
 - **Research Area**: Topology optimization
 - **Dissertation**: Level-set Based Topology Optimization with Minimum Length Scale Constraint
 
 **Hanyang University**, Korea
+
 *B.S. in Mechanical Engineering* (Mar. 2008 ~ Aug. 2015)
