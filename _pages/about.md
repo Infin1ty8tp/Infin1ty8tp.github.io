@@ -4,13 +4,13 @@ permalink: /about/
 layout: single
 comments: false
 ---
----
+
 ### 🔎 Research Interests
 - Li-ion Battery
 - Structural Simulation
 - Numerical Modeling
 - Optimization
----
+
 ### 💻 Technical Skills
 - **Language**
   - Matlab
@@ -20,8 +20,9 @@ comments: false
   - LS-dyna
   - COMSOL
   - Abaqus
----
+
 ### 💼 Professional Experience
+
 **LG Energy Solution** | Gwacheon, Korea
 *Professional (책임연구원)* | Jul. 2017 ~ Present
 
@@ -33,14 +34,13 @@ comments: false
     - Structural Simulation Department (Jun. 2020 ~ Dec. 2021)
     - Design for Manufacturing Department (Jul. 2018 ~ Dec. 2020)
 
----
 ### 🎓 Education
-**Hanyang University** | Korea
-*M.S. in Automotive Engineering* | Sep. 2015 ~ Aug. 2017
+
+**Hanyang University**, Korea
+*M.S. in Automotive Engineering* (Sep. 2015 ~ Aug. 2017)
 - **Advisor**: Prof. Seungjae Min
 - **Research Area**: Topology optimization
 - **Dissertation**: Level-set Based Topology Optimization with Minimum Length Scale Constraint
 
-**Hanyang University** | Korea
-*B.S. in Mechanical Engineering* | Mar. 2008 ~ Aug. 2015
----
+**Hanyang University**, Korea
+*B.S. in Mechanical Engineering* (Mar. 2008 ~ Aug. 2015)
