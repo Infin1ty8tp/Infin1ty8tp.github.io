@@ -10,7 +10,7 @@ comments: false
 - Structural Simulation
 - Numerical Modeling
 - Optimization
-
+---
 ### 💻 Technical Skills
 - **Language**
   - Matlab
@@ -22,7 +22,6 @@ comments: false
   - Abaqus
 ---
 ### 💼 Professional Experience
-
 **LG Energy Solution** | Gwacheon, Korea
 *Professional (책임연구원)* | Jul. 2017 ~ Present
 
@@ -36,7 +35,6 @@ comments: false
 
 ---
 ### 🎓 Education
-
 **Hanyang University** | Korea
 *M.S. in Automotive Engineering* | Sep. 2015 ~ Aug. 2017
 - **Advisor**: Prof. Seungjae Min
@@ -45,5 +43,4 @@ comments: false
 
 **Hanyang University** | Korea
 *B.S. in Mechanical Engineering* | Mar. 2008 ~ Aug. 2015
-
 ---
