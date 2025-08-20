@@ -24,6 +24,7 @@ comments: false
 ### 💼 Professional Experience
 
 **LG Energy Solution**, Korea
+
 *Professional (책임연구원)* (Jul. 2017 ~ Present)
 
 - **Current Role**: CAE Engineer
