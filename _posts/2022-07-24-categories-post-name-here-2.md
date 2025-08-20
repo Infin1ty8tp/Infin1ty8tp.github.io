@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /기술/post-name-here-2/
+permalink: /배터리/기술/post-name-here-2/
 
 toc: true
 toc_sticky: true
