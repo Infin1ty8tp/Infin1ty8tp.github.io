@@ -3,7 +3,7 @@ title: "[포스팅 예시] 이곳에 제목을 입력하세요"
 excerpt: "본문의 주요 내용을 여기에 입력하세요"
 
 categories:
-  - 기술
+  - 배터리-기술
 tags:
   - [tag1, tag2]
 
